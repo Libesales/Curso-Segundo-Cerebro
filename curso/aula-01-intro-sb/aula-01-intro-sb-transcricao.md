@@ -1,0 +1,19 @@
+# Aula 01 — Intro SB
+
+- **Vídeo** — [Intro SB no YouTube](https://www.youtube.com/watch?v=dmmktBMCSCc).
+- **Origem** — transcrição em português no arquivo fornecido `1 - Intro SB.md`.
+- **Cobertura** — texto integral do anexo, da abertura às orientações finais. A última marcação é 02:29. As marcas indicam o início de cada trecho.
+
+## Transcrição fornecida
+
+# (58) Intro SB - YouTube
+
+https://www.youtube.com/watch?v=dmmktBMCSCc
+
+- [00:00](https://www.youtube.com/watch?v=dmmktBMCSCc&t=0s) Opa, seja muito bem-vindo, muito bem-vinda a mais um minicurso aqui da comunidade. Neste minicurso aqui a gente vai falar sobre como criar um segundo cérebro com inteligência artificial, para que em breve aí você tenha este esqueminha bonitão aqui, né? Essa visualização bonita do seu segundo cérebro e possa utilizar a inteligência artificial, principalmente para o trabalho, para o dia a dia, para ganhar produtividade utilizando um segundo cérebro para potencializar tudo o que você faz por aí. Dentro dos próximos
+- [00:29](https://www.youtube.com/watch?v=dmmktBMCSCc&t=29s) módulos eu vou na pegar contigo do zero, mesmo que você não tenha conhecimento nenhum sobre segundo cérebro, até a construção de um segundo cérebro otimizado para você, personalizado para você. A gente vai passar aqui pela aula de introdução, que é essa aqui, só para a gente ter um mapa, uma agenda aí do que a gente vai ver.
+- [00:47](https://www.youtube.com/watch?v=dmmktBMCSCc&t=47s) Depois a gente vai ver um pouquinho sobre conceitos básicos que são importantes que você domina, né? O que que é o segundo cérebro, os conceitos por trás dele, para quem que ele funciona melhor e alguns casos de uso, para a gente ver o poder dele de fato na prática, né, no dia a dia. Depois a gente vai entender alguns conceitos básicos antes de poder configurar e fazer o setup do OS, então vai ter uma aulinha um pouco mais teórica, explicativa aqui, mas bem importante para você poder dominar alguns conceitos
+- [01:14](https://www.youtube.com/watch?v=dmmktBMCSCc&t=74s) e daí sim a gente inicia uma fase de implementação, de setup do nosso segundo cérebro, onde a gente começa pelas configurações das pastas, depois a configuração da camada de memória, depois a explicação sobre as rotinas e skills que fazem a limpeza e manutenção do seu segundo cérebro, um módulo específico para a gente falar sobre as automações, que é assim, é o nível máximo do uso do segundo cérebro, é quando ele começa a agir por você, como um agente autônomo, né? Então a gente vai ver algumas formas de fazer isso
+- [01:42](https://www.youtube.com/watch?v=dmmktBMCSCc&t=102s) aqui acontecer e por último, a construção da visualização em gráfico, que é essa visualização aqui, que fica por último porque é a parte menos importante disso tudo, tá? O trabalho que a IA faz por você não depende dessa, desse esqueminha bonito aqui, claro que é legal ter e tal, você se sente um pouco mais próximo aqui da entrega final do, do seu segundo cérebro, mas o importante é você ter o restante de tudo que a gente vai ver funcionando.
+- [02:08](https://www.youtube.com/watch?v=dmmktBMCSCc&t=128s) Essa aqui é, esse aqui é aquele frufru que a gente se sente bem de ter feito, né? Porque é legal, é bonito de interagir, tem algumas funcionalidades sim que eu vou mostrar depois, mas na prática não é isso aqui que importa mesmo, beleza? Lembrando que além da aula em si para você assistir, embaixo dela tem ali alguns comentários, quando tem algum material para compartilhar eu deixo disponível.
+- [02:29](https://www.youtube.com/watch?v=dmmktBMCSCc&t=149s) Durante as próximas aulas sim você vai precisar acessar alguns desses materiais, são formulários, skills, alguns repositórios do GitHub com arquivos de código, mas que é super simples de ensinar, eu vou te guiar a fazer tudo isso quando for a hora certa, beleza? Então fica atento aí também nos comentários e nos materiais extras embaixo de cada uma dessas, das aulas.
